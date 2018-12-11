@@ -1,0 +1,2 @@
+1、jquery 本质是一个函数闭包
+(function)()
